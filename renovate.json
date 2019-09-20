@@ -1,0 +1,10 @@
+{
+    "node": {
+        "supportPolicy": [
+            "all"
+        ]
+    },
+    "bundler": {
+        "enabled": true
+    }
+}
