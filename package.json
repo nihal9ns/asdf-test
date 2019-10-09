@@ -1,14 +1,14 @@
 {
-    "name": "volta-test",
-    "version": "1.0.0",
-    "description": "Test project for asdf",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "engines": {
-        "node": "8.9.2"
-    },
-    "author": "Nihal",
-    "license": "ISC"
+  "name": "volta-test",
+  "version": "1.0.0",
+  "description": "Test project for asdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.9.2"
+  },
+  "author": "Nihal",
+  "license": "ISC"
 }

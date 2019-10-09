@@ -1,7 +1,8 @@
 {
-    "node": {
-        "supportPolicy": [
-            "all"
-        ]
-    }
+  "node": {
+    "supportPolicy": ["all"]
+  },
+  "bundler": {
+    "enabled": true
+  }
 }
